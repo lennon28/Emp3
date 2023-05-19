@@ -1,0 +1,13 @@
+.header {
+    padding: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    background: rgb(0, 63, 130);
+    background: linear-gradient(
+      90deg,
+      rgba(0, 63, 130, 1) 28%,
+      rgba(104, 163, 238, 1) 100%
+      
+    );
+
+  
+}
